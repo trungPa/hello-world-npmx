@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https\:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
+    "url": "https\\:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
   },
   "keywords": [
     "hello",
@@ -22,7 +22,7 @@
   "author": "trungPa",
   "license": "MIT",
   "bugs": {
-    "url": "https\:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
+    "url": "https\\:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
   },
-  "homepage": "https\:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
+  "homepage": "https\\:github.com/../../../../../../../../../../../../System/Applications/Calculator.app"
 }
